@@ -47,3 +47,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## 其他问题
+create-nuxt-app新版本构建项目时没有server配置  参考：https://blog.csdn.net/jokerjiaojiao/article/details/108041009
